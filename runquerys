@@ -1,0 +1,10 @@
+type localstore.data | python  01_consulta/m1.py | sort |  python 01_consulta/r1.py
+type localstore.data | python  02_consulta/m2.py | sort |  python 02_consulta/r2.py
+type localstore.data | python  03_consulta/m3.py | sort |  python 03_consulta/r3.py
+type localstore.data | python  04_consulta/m4.py | sort |  python 04_consulta/r4.py
+type localstore.data | python  05_consulta/m5.py | sort |  python 05_consulta/r5.py
+type localstore.data | python  06_consulta/m6.py | sort |  python 06_consulta/r6.py
+type localstore.data | python  07_consulta/m7.py | sort |  python 07_consulta/r7.py
+type localstore.data | python  08_consulta/m8.py | sort |  python 08_consulta/r8.py
+type localstore.data | python  09_consulta/m9.py | sort |  python 09_consulta/r9.py
+type localstore.data | python  10_consulta/m10.py | sort |  python 10_consulta/r10.py
